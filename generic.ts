@@ -1,4 +1,3 @@
-// storage.ts
 class DataStorage<T> {
     private data: T[] = [];
 
